@@ -1,0 +1,29 @@
+{
+  "name": "strbag",
+  "version": "0.0.1",
+  "description": "A sample module for stroing strings mapping",
+  "main": "strbag.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevolution/strbag.git"
+  },
+  "keywords": [
+    "strbug"
+  ],
+  "author": "Tom Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevolution/strbag/issues"
+  },
+  "homepage": "https://github.com/sevolution/strbag#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
